@@ -1,0 +1,31 @@
+
+figure {
+    border: 2px solid black
+    
+    
+ class="flex-container" style="padding: 2vw;"
+    
+
+}   
+figure {
+    border-style: solid;
+    border-color: lavender;
+    background-color: lightgoldenrodyellow;
+    align-self: start;
+    flex-grow: var(3);
+    align-content: stretch;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
